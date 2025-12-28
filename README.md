@@ -47,18 +47,19 @@ Nearly 80 recipes to help you build end-to-end Azure data engineering pipelines.
 ## 🛠️ Featured Projects and Repositories
 ### AI Agents & Automation
 
-* 🤖 **[AI-Agenti-usecase-Templates](https://github.com/jackiemakhija/AI-Agenti-usecase-Templates)** ⭐ - Template repository for AI Agent use cases with Python implementations
+* 📈 **[Natural-Language-to-Governed-Insights-End-to-End-Runbook](https://github.com/jackiemakhija/Natural-Language-to-Governed-Insights-End-to-End-Runbook)** - Python-based runbook for natural language data insights
 * 📞 **[CallCenter-AIAgent](https://github.com/jackiemakhija/CallCenter-AIAgent)** - AI-powered call center agent solution with natural language processing
+* 🤖 **[AI-Agenti-usecase-Templates](https://github.com/jackiemakhija/AI-Agenti-usecase-Templates)** ⭐ - Template repository for AI Agent use cases with Python implementations
 * 🎓 **[ai-agents-for-beginners](https://github.com/jackiemakhija/ai-agents-for-beginners)** - 12 Lessons to get started building AI agents (Microsoft fork)
 * 🧠 **[AIAgent-framework](https://github.com/jackiemakhija/AIAgent-framework)** - Framework for building, orchestrating and deploying AI agents and multi-agent workflows
 * 🎯 **[agent-academy](https://github.com/jackiemakhija/agent-academy)** - Curated lessons on building agents with Copilot Studio
 
-### Microsoft Fabric & Data Analytics
+### Data Engineering & Automation
 
-* 📊 **[Implementing-Analytics-Solutions-Using-Microsoft-Fabric-Exam-DP-600-Study-Guide](https://github.com/jackiemakhija/Implementing-Analytics-Solutions-Using-Microsoft-Fabric-Exam-DP-600-Study-Guide-)** - Study guide repository for DP-600 certification
-* 📚 **[B22181_DP600](https://github.com/jackiemakhija/B22181_DP600)** - Microsoft Fabric Exam DP-600 study materials
-* 📖 **[DP600-FabricBook](https://github.com/jackiemakhija/DP600-FabricBook)** - Comprehensive Microsoft Fabric book resources
-* 📈 **[Natural-Language-to-Governed-Insights-End-to-End-Runbook](https://github.com/jackiemakhija/Natural-Language-to-Governed-Insights-End-to-End-Runbook)** - Python-based runbook for natural language data insights
+* 📋 **[AISheet](https://github.com/jackiemakhija/AISheet)** - JavaScript-based AI-powered spreadsheet solution
+* 🗑️ **[ADFDeleteFiles](https://github.com/jackiemakhija/ADFDeleteFiles)** - Azure Data Factory pipeline for file deletion
+* 🔄 **[UnlimitedDataDownloadUsingPowerAutomate](https://github.com/jackiemakhija/UnlimitedDataDownloadUsingPowerAutomate)** - Power Automate solution for large-scale data downloads
+* 💾 **[Code-Snippets](https://github.com/jackiemakhija/Code-Snippets)** - Curated collection of useful code snippets
 
 ### Dynamics 365 & AI Integration
 
@@ -70,13 +71,6 @@ Nearly 80 recipes to help you build end-to-end Azure data engineering pipelines.
 * 🚀 **[Deploy-Your-AI-Application-In-Production](https://github.com/jackiemakhija/Deploy-Your-AI-Application-In-Production)** - Secure deployment environment for Azure AI Foundry workloads
 * 🔧 **[get-started-with-ai-agents](https://github.com/jackiemakhija/get-started-with-ai-agents)** - Azure AI Foundry agent web app deployment samples
 * 🧪 **[semantic-kernel-advanced-usage](https://github.com/jackiemakhija/semantic-kernel-advanced-usage)** - Advanced Semantic Kernel usage scenarios
-
-### Data Engineering & Automation
-
-* 📋 **[AISheet](https://github.com/jackiemakhija/AISheet)** - JavaScript-based AI-powered spreadsheet solution
-* 🗑️ **[ADFDeleteFiles](https://github.com/jackiemakhija/ADFDeleteFiles)** - Azure Data Factory pipeline for file deletion
-* 🔄 **[UnlimitedDataDownloadUsingPowerAutomate](https://github.com/jackiemakhija/UnlimitedDataDownloadUsingPowerAutomate)** - Power Automate solution for large-scale data downloads
-* 💾 **[Code-Snippets](https://github.com/jackiemakhija/Code-Snippets)** - Curated collection of useful code snippets
 
 ### OpenAI & Assistant API
 
