@@ -71,10 +71,14 @@ A specialized GPT designed to provide expert guidance on Dynamics 365 Customer J
 - 🔹 [Cloud Storage Architecture Patterns](https://www.linkedin.com/posts/jagjeetmakhija_microsoft-cloudarchitecture-cloudstorage-activity-6849039050393960448-Woui?utm_source=share&utm_medium=member_desktop)
 - 🔹 [Latest Updates & Insights](https://www.linkedin.com/feed/update/urn:li:activity:7345507317934604288?utm_source=share&utm_medium=member_desktop)
 
+### AI Apps 
+
+- 🤖 **[Natural-Language-to-Governed-Insights-End-to-End-Runbook](https://github.com/jagjeetmakhija/Natural-Language-to-Governed-Insights-End-to-End-Runbook)** - Natural Language to Governed Insights End-to-End Runbook (Microsoft Fabric + Semantic Model + Foundry Local)
+- 📞 **[CallCenter-AIAgent](https://github.com/jagjeetmakhija/CallCenter-AIAgent)** - AI-Powered Call Center Solution with intelligent automation
+
 ### Latest Repositories
 - 🔧 **[AI-Agenti-usecase-Templates](https://github.com/jagjeetmakhija/AI-Agenti-usecase-Templates)** - AI Agent implementation templates for enterprise scenarios
-- 💰 **[Data-Platform-Cost-Optimizer](#)** - Tools and scripts for optimizing cloud data platform costs
-- 🧩 **[Real-Time-Analytics-Framework](#)** - Framework for implementing real-time analytics at scale
+
 
 ## 📊 GitHub Stats for nerds
 
