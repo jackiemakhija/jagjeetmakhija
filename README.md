@@ -1,141 +1,190 @@
 # Hello, I'm Jagjeet Singh Makhija! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jagjeetmakhija-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jagjeetmakhija)
-[![Twitter](https://img.shields.io/badge/Twitter-jagjeetmakhija-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/jagjeetmakhija)
-[![Medium](https://img.shields.io/badge/medium.com-green?style=flat-square&logo=blogger&logoColor=white)](https://medium.com/@jagjeetmakhija)
-![GitHub followers](https://img.shields.io/github/followers/jagjeetmakhija?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jagjeetmakhija-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagjeetmakhija)
+[![Twitter](https://img.shields.io/badge/Twitter-@jagjeetmakhija-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jagjeetmakhija)
+[![GitHub followers](https://img.shields.io/github/followers/jagjeetmakhija?label=Follow&style=for-the-badge&logo=github&color=blue)](https://github.com/jagjeetmakhija/)
+[![Website](https://img.shields.io/badge/Website-jagjeetmakhija.com-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/jagjeetmakhija/)
 
 ## 💼 About Me
 
-I'm a distinguished Senior Solution Architect with over 20 years of experience in data analytics, data warehousing, and business intelligence. Renowned for designing scalable, transformative solutions, I specialize in cutting-edge technologies such as **Microsoft Fabric**, **Azure Synapse Analytics**, **Snowflake**, **ADF**, **Power Plateform**, and **Agentic AI**. With deep expertise in enterprise data architecture and AI integration, I help organizations transform their business processes through intelligent automation and data-driven insights.
+I'm a **Senior Data & AI Architect** with **20+ years of experience** designing, modernizing, and scaling enterprise-grade data platforms across Fortune 500 organizations.
 
-## 🏆 Certifications & Credentials
+🔹 **Expertise:** Azure Databricks, Microsoft Fabric, Snowflake, Azure Synapse  
+🔹 **Specialization:** Cloud-native Lakehouse architectures, Real-time analytics, AI/ML at scale  
+🔹 **Track Record:** 50-70% cost reductions, 60%+ query performance gains, near real-time data availability  
+🔹 **Published Author:** "Implementing Analytics Solutions Using Microsoft Fabric (DP-600)"
 
-- 🎖️ **Microsoft Certified:** Fabric Analytics Engineer (DP-600)
-- 🎖️ **Microsoft Certified:** Azure Solutions Architect Expert
-- 🎖️ **Microsoft Certified:** Azure Data Engineer Associate
-- 🎖️ **Microsoft Certified:** Power Platform Specialist
-- 🎖️ **SnowPro Advanced Architect** Certification
+> 🔍 *Exploring the intersection of enterprise data platforms and artificial intelligence*
+
+---
+
+## 📚 My Latest Published Book on Data & AI
+
+<div align="center">
+  <a href="https://www.amazon.com/Implementing-Analytics-Solutions-Microsoft-Fabric-DP-600/dp/183588332X">
+    <img src="https://m.media-amazon.com/images/I/71XQ8K7ZNRL._SL1500_.jpg" alt="Microsoft Fabric Book" width="300"/>
+  </a>
+  
+  ### Implementing Analytics Solutions Using Microsoft Fabric—DP-600 Exam Study Guide
+  
+  **Co-authored with Charles Odunukwe**  
+  Published by Packt Publishing (2025)
+  
+  [![Buy on Amazon](https://img.shields.io/badge/Buy_on-Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)](https://www.amazon.com/Implementing-Analytics-Solutions-Microsoft-Fabric-DP-600/dp/183588332X)
+  [![View on Goodreads](https://img.shields.io/badge/View_on-Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/author/show/54742368.Jagjeet_Singh_Makhija)
+</div>
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+### Cloud Platforms & Data Technologies
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+### Programming & Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+### AI/ML & Analytics
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+
+---
 
 ## 🤖 Custom GPT Live
+
 <div align="center">
   <a href="https://chatgpt.com/g/g-I2Mp1lkpG-dynamics-365-cjo-copilot">
     <img src="https://img.shields.io/badge/ChatGPT-Dynamics_365_CJO_Copilot-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="Custom GPT" />
   </a>
 </div>
 
-## 📚 My Published Books
-
-### 📖 [Implementing Analytics Solutions Using Microsoft Fabric DP-600 Exam Study Guide](https://www.amazon.com/Implementing-Analytics-Solutions-Microsoft-Fabric-DP-600-ebook/dp/B0DQXNKS5Z)
-
-A comprehensive guide providing expert insights and certification-ready strategies for Microsoft Fabric analytics professionals. Co-authored with Charles Odunukwe, this book is designed to boost your skills and prepare you for the DP-600 certification exam.
-
-### 🤖 [ADVANCED AI INSIGHT: Pushing the Boundaries of Data Science](https://www.amazon.com/ADVANCED-AI-INSIGHT-Pushing-Boundaries/dp/B0DSJBBMNJ)
-
-An exploration of advanced AI concepts and their practical applications in modern data science. This book delves into cutting-edge techniques and methodologies that are reshaping the data landscape.
-
-## ⭐ Books I've Reviewed & Recommend
-
-### 🐍 [Data Ingestion with Python Cookbook](https://www.amazon.com/Data-Ingestion-Python-Cookbook-identifying/dp/183763260X)
-**Author:** Gláucia Esppenchutz
-
-A practical guide to designing and implementing data ingestion pipelines using Python and PySpark. This cookbook offers real-world examples with widely recognized open-source tools, covering data schemas, Airflow pipelines, and data observability principles.
-
-### ☁️ [Azure Data Engineering Cookbook (2nd Edition)](https://www.amazon.com/Azure-Data-Engineering-Cookbook-recipe-based/dp/1803246782/)
-**Authors:** Nagaraj Venkatesan & Ahmad Osama
-
-Nearly 80 recipes to help you build end-to-end Azure data engineering pipelines. Covers Azure Data Factory, Databricks, Synapse Analytics, and monitoring with Log Analytics and Azure Purview.
-
-## 📝 Latest Technical Articles | Follow for More...
-
-### Data Architecture & Analytics
-
-* 🚀 [Strategy to Crack Snowflake Advanced Architect Certification](https://linkedin.com/pulse/strategy-crack-snowflake-advance-architect-jagjeet-makhija)
-* 🔮 [Custom Copilot to ChatGPT for Customer Journey Orchestration in Dynamics 365](https://linkedin.com/pulse/custom-copilot-chatgpt-customer-journey-orchestration-jagjeet-makhija-3rslc)
-* 💰 [Beauty of Snowflake with Power BI Integration](https://linkedin.com/pulse/beauty-snowflake-power-bi-jagjeet-makhija)
-* 🌱 [Cloud Katana Microsoft Open Source](https://linkedin.com/pulse/cloud-katana-microsoft-open-source-jagjeet-makhija)
-
-## 🛠️ Featured Projects and Repositories
-### AI Agents & Automation
-
-* 📈 **[Natural-Language-to-Governed-Insights-End-to-End-Runbook](https://github.com/jackiemakhija/Natural-Language-to-Governed-Insights-End-to-End-Runbook)** - Python-based runbook for natural language data insights
-* 📞 **[CallCenter-AIAgent](https://github.com/jackiemakhija/CallCenter-AIAgent)** - AI-powered call center agent solution with natural language processing
-* 🤖 **[AI-Agenti-usecase-Templates](https://github.com/jackiemakhija/AI-Agenti-usecase-Templates)** ⭐ - Template repository for AI Agent use cases with Python implementations
-* 🎓 **[ai-agents-for-beginners](https://github.com/jackiemakhija/ai-agents-for-beginners)** - 12 Lessons to get started building AI agents (Microsoft fork)
-* 🧠 **[AIAgent-framework](https://github.com/jackiemakhija/AIAgent-framework)** - Framework for building, orchestrating and deploying AI agents and multi-agent workflows
-* 🎯 **[agent-academy](https://github.com/jackiemakhija/agent-academy)** - Curated lessons on building agents with Copilot Studio
-
-### Data Engineering & Automation
-
-* 📋 **[AISheet](https://github.com/jackiemakhija/AISheet)** - JavaScript-based AI-powered spreadsheet solution
-* 🗑️ **[ADFDeleteFiles](https://github.com/jackiemakhija/ADFDeleteFiles)** - Azure Data Factory pipeline for file deletion
-* 🔄 **[UnlimitedDataDownloadUsingPowerAutomate](https://github.com/jackiemakhija/UnlimitedDataDownloadUsingPowerAutomate)** - Power Automate solution for large-scale data downloads
-* 💾 **[Code-Snippets](https://github.com/jackiemakhija/Code-Snippets)** - Curated collection of useful code snippets
-
-### Dynamics 365 & AI Integration
-
-* 🔄 **[Dynamics365CI-GenerativeAI-Templates](https://github.com/jackiemakhija/Dynamics365CI-GenerativeAI-Templates)** - Generative AI templates for Dynamics 365 Customer Insights
-* 🗺️ **[Dynamics365Journey-GenerativeAI-Templates](https://github.com/jackiemakhija/Dynamics365Journey-GenerativeAI-Templates)** - AI-powered customer journey templates for Dynamics 365
-
-### Azure & Production Deployments
-
-* 🚀 **[Deploy-Your-AI-Application-In-Production](https://github.com/jackiemakhija/Deploy-Your-AI-Application-In-Production)** - Secure deployment environment for Azure AI Foundry workloads
-* 🔧 **[get-started-with-ai-agents](https://github.com/jackiemakhija/get-started-with-ai-agents)** - Azure AI Foundry agent web app deployment samples
-* 🧪 **[semantic-kernel-advanced-usage](https://github.com/jackiemakhija/semantic-kernel-advanced-usage)** - Advanced Semantic Kernel usage scenarios
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/jagjeetmakhija">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagjeetmakhija&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Jagjeet's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeetmakhija&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagjeetmakhija&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true" alt="Jagjeet's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagjeetmakhija&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages"/>
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=jagjeetmakhija&theme=react&hide_border=true" alt="GitHub Streak"/>
 
-<a href="https://github.com/jagjeetmakhija">
-  <img src="https://streak-stats.demolab.com/?user=jagjeetmakhija&theme=react&hide_border=true" alt="GitHub Streak"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=jagjeetmakhija&theme=onedark&no-frame=true&column=7" alt="Trophy"/>
 
-<br/>
-
-<a href="https://github.com/jagjeetmakhija">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagjeetmakhija&theme=onedark&no-frame=true&row=1&column=7" alt="Trophy"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/jagjeetmakhija">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagjeetmakhija&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jagjeetmakhija&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
+---
+
 ## 📈 Engagement
-![Total Stars](https://img.shields.io/github/stars/jagjeetmakhija?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars)
-![Watchers](https://img.shields.io/github/watchers/jagjeetmakhija?style=for-the-badge&logo=github&color=blue&label=Watchers)
-![Discussions](https://img.shields.io/github/discussions/jagjeetmakhija/jagjeetmakhija?style=for-the-badge&logo=github&color=green&label=Discussions)
 
-## 🔧 Technologies & Tools
-
-![Microsoft Fabric](https://img.shields.io/badge/Platform-Microsoft_Fabric-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![Snowflake](https://img.shields.io/badge/Platform-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=2bbc8a)
-![PowerBI](https://img.shields.io/badge/BI-Power_BI-informational?style=flat&logo=powerbi&logoColor=white&color=2bbc8a)
-![Azure Synapse](https://img.shields.io/badge/Analytics-Azure_Synapse-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
-![Databricks](https://img.shields.io/badge/Platform-Databricks-informational?style=flat&logo=databricks&logoColor=white&color=2bbc8a)
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)
-![PySpark](https://img.shields.io/badge/Framework-PySpark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-jagjeetmakhija-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jagjeetmakhija)
-[![Twitter](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/jagjeetmakhija)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@jagjeetmakhija)
+<div align="center">
+  <img src="https://img.shields.io/github/stars/jagjeetmakhija?style=for-the-badge&logo=github&color=yellow&label=Total%20Stars" alt="Total Stars" />
+  <img src="https://img.shields.io/github/followers/jagjeetmakhija?style=for-the-badge&logo=github&color=blue&label=Followers" alt="Followers" />
+</div>
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jackiemakhija.jagjeetmakhija)
-  
-*Last updated: 2024-12-27*
+## 🎯 Key Achievements
+
+- ✅ **50-70% cost reductions** in enterprise data platforms
+- ✅ **60%+ query performance improvements** through architectural optimization
+- ✅ **Near real-time data availability** for business-critical workloads
+- ✅ **40% reduction in analyst dependency** through AI-powered natural-language analytics
+- ✅ **Published author** on enterprise analytics and AI
+- ✅ **20+ years** of Fortune 500 experience
+
+---
+
+## 📝 Latest Work
+
+### Featured Repositories
+
+- 🔷 [**DP600-FabricBook**](https://github.com/jagjeetmakhija/DP600-FabricBook) - Microsoft Fabric DP-600 Study Guide materials
+- 🔷 [**AI-Agenti-usecase-Templates**](https://github.com/jagjeetmakhija/AI-Agenti-usecase-Templates) - AI Agent implementation templates
+- 🔷 [**OpenAI_GPTs_AssistantAPI_examples**](https://github.com/jagjeetmakhija/OpenAI_GPTs_AssistantAPI_examples) - OpenAI GPT & Assistant API examples
+
+---
+
+## 🎓 Certifications
+
+- Microsoft Certified: Fabric Analytics Engineer Associate
+- Microsoft Certified: Azure Data Engineer Associate
+- Microsoft Certified: Power Platform Developer
+- Microsoft Certified: Azure AI Engineer Associate
+- Databricks Certified Data Engineer Professional
+- Snowflake SnowPro Core Certification
+
+---
+
+## 📫 How to Reach Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jagjeetmakhija)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/jagjeetmakhija)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:jagjeet@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/jagjeetmakhija/)
+
+</div>
+
+---
+
+## 💡 Professional Highlights
+
+```yaml
+role: Senior Data & AI Architect
+experience: 20+ years
+focus: 
+  - Cloud-native Lakehouse architectures
+  - Enterprise data platform modernization
+  - AI/ML at scale
+  - Real-time analytics
+specialties:
+  - Azure Databricks
+  - Microsoft Fabric
+  - Snowflake
+  - Azure Synapse
+  - Power Platform
+  - AI-powered analytics
+impact:
+  - cost_reduction: "50-70%"
+  - performance_gain: "60%+"
+  - data_availability: "near real-time"
+  - analyst_dependency_reduction: "~40%"
+```
+
+---
+
+## 🌟 Recent Projects & Contributions
+
+- 📊 **AI-Powered Analytics Agents** - Developed governed natural-language analytics solutions on Fabric, Databricks, and Snowflake
+- 🏗️ **Enterprise Lakehouse Migrations** - Led Fortune 500 organizations through legacy-to-cloud data platform transformations
+- 📚 **Technical Writing** - Authored comprehensive guide for Microsoft Fabric DP-600 certification
+- 🤖 **Custom GPT Development** - Created Dynamics 365 CJO Copilot for enterprise insights
+
+---
+
+<div align="center">
+
+### 📖 "Turning data complexity into strategic business value"
+
+**Views are personal. Building the future of enterprise data & AI, one solution at a time.**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=jagjeetmakhija&color=blue&style=for-the-badge)](https://github.com/jagjeetmakhija/)
+
+---
+
+© 2025 Jagjeet Singh Makhija | All Rights Reserved
+
+</div>
